@@ -35,5 +35,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.4.2")
     implementation(Dependencies.ANDROID_MATERIAL_DEPENDENCIES)
     implementation(Dependencies.CONSTRAINT_LAYOUT_DEPENDENCIES)
+    // implementation module
+    implementation(project(":newlibrary"))
 
 }

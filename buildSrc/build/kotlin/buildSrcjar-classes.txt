@@ -1,0 +1,1 @@
+C:\Users\matrix\.AndroidStudio3.5\KotlinDSL\buildSrc\build\classes\kotlin\main\Dependencies.class
